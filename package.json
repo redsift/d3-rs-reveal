@@ -1,6 +1,6 @@
 {
   "name": "@redsift/d3-rs-reveal",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Performs an animated transition between images.",
   "keywords": [
     "image",
