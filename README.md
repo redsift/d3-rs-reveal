@@ -8,7 +8,7 @@
 
 ## Example
 
-[View @redsift/d3-rs-reveal on Codepen](http://codepen.io/rahulpowar/pen/mEoVyz)
+[View @redsift/d3-rs-reveal on Codepen](http://codepen.io/rahulpowar/pen/mEoVyz?editors=0010)
 
 You may use your browser's throttling tools and cache to simulate different load and reload scenarios.
 
